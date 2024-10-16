@@ -1,0 +1,36 @@
+Key Features
+
+Bootstrap 5
+HTML5 & CSS3
+Cross-browser compatibility
+Multi-page template
+Fully responsive
+Clean & sophisticated design
+Search box
+Pie chart, Donut chart, Bar chart, Line chart, Radar chart, and others
+Collapsible sidebar
+Google & other Maps
+Calendar
+Three pre-built authentication pages
+Two error pages
+Profile, Invoice & Notification option
+FontAwesome & Feather font icons
+Datatables with different functionalities
+Custom & basic forms
+Custom button & grid
+20+ UI elements
+ 
+
+In The Box
+All demo images
+HTML files
+Font Icons
+CSS & SCSS files
+JavaScript source files
+Library and plugin files
+ 
+
+Libraries and Plugins
+Bootstrap 5
+Fontawesome
+Vanilla JS
